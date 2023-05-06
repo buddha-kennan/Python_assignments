@@ -1,2 +1,2 @@
-# Python_assignment_01
-I have mentioned the solutions to all questions.
+# Python_assignments
+Find the solutions for all problems, which was provided in the assignments. 
